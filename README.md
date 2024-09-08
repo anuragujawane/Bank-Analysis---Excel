@@ -1,4 +1,4 @@
-# Bank-Analysis---Excel
+
 # Introduction :-
 Our project today will walk you through a detailed  examination of the data, insightful observations, and  actionable recommendations for stakeholders in the financial industry. We believe that data-driven insights are instrumental  in making informed decisions, reducing risks, and ensuring the  overall health and sustainability of the banking sector.
 # Scope :-
